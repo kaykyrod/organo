@@ -1,0 +1,14 @@
+.rodape-container {
+    display: flex;
+    background-color: #6278F7;
+    padding: 50px 0;
+    /* gap: 50px; */
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.redes-sociais {
+    display: flex;
+    gap: 15px;
+}
